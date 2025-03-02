@@ -14,6 +14,7 @@ EasyOCR for character recognition
 Matplotlib for visualization
 ## Dataset
 The dataset is downloaded from Kaggle (andrewmvd/car-plate-detection) and contains:
+ https://www.kaggle.com/datasets/andrewmvd/car-plate-detection
 
 Annotations in XML format (bounding boxes for license plates)
 Images of vehicles with license plates
